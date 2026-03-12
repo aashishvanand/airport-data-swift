@@ -62,9 +62,9 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 Every push to `main` and every pull request runs CI automatically, which:
 
-- Builds the package on macOS
+- Builds the package on Linux (Ubuntu)
 - Runs the full test suite
-- Tests against Swift 5.9, 5.10, and 6.0
+- Tests against Swift 5.10, 6.0, 6.1, and 6.2
 
 All CI checks must pass before a PR can be merged.
 
