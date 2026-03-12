@@ -422,4 +422,4 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/aashishvanand/airport-data-swift/issues).
+Contributions, issues, and feature requests are welcome! See the [Contributing Guide](CONTRIBUTING.md) for details on the development workflow, branch structure, and release process.
