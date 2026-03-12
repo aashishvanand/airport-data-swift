@@ -1,5 +1,8 @@
 # Airport Data Swift
 
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Faashishvanand%2Fairport-data-swift%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/aashishvanand/airport-data-swift)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Faashishvanand%2Fairport-data-swift%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/aashishvanand/airport-data-swift)
+
 A comprehensive Swift library for retrieving airport information by IATA codes, ICAO codes, and various other criteria. This library provides easy access to a large dataset of airports worldwide with detailed information including coordinates, timezone, type, and external links.
 
 ## Installation
